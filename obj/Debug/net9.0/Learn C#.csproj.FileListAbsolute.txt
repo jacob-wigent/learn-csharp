@@ -1,0 +1,14 @@
+C:\Users\Jacob\Documents\Game Development Camp\Learn C#\bin\Debug\net9.0\Learn C#.exe
+C:\Users\Jacob\Documents\Game Development Camp\Learn C#\bin\Debug\net9.0\Learn C#.deps.json
+C:\Users\Jacob\Documents\Game Development Camp\Learn C#\bin\Debug\net9.0\Learn C#.runtimeconfig.json
+C:\Users\Jacob\Documents\Game Development Camp\Learn C#\bin\Debug\net9.0\Learn C#.dll
+C:\Users\Jacob\Documents\Game Development Camp\Learn C#\bin\Debug\net9.0\Learn C#.pdb
+C:\Users\Jacob\Documents\Game Development Camp\Learn C#\obj\Debug\net9.0\Learn C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob\Documents\Game Development Camp\Learn C#\obj\Debug\net9.0\Learn C#.AssemblyInfoInputs.cache
+C:\Users\Jacob\Documents\Game Development Camp\Learn C#\obj\Debug\net9.0\Learn C#.AssemblyInfo.cs
+C:\Users\Jacob\Documents\Game Development Camp\Learn C#\obj\Debug\net9.0\Learn C#.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Documents\Game Development Camp\Learn C#\obj\Debug\net9.0\Learn C#.dll
+C:\Users\Jacob\Documents\Game Development Camp\Learn C#\obj\Debug\net9.0\refint\Learn C#.dll
+C:\Users\Jacob\Documents\Game Development Camp\Learn C#\obj\Debug\net9.0\Learn C#.pdb
+C:\Users\Jacob\Documents\Game Development Camp\Learn C#\obj\Debug\net9.0\Learn C#.genruntimeconfig.cache
+C:\Users\Jacob\Documents\Game Development Camp\Learn C#\obj\Debug\net9.0\ref\Learn C#.dll
