@@ -12,7 +12,7 @@ namespace Learn_CSharp
     public class GettingStarted
     {
         /*This is a method/function. It does things!*/
-        public static void Main()
+        public static void main()
         {
             /* This is where all your code goes! :) */
             Console.WriteLine("Hello World");
@@ -33,7 +33,7 @@ namespace Learn_CSharp
 
             /**/
 
-            //Console.ReadKey();
+            Console.ReadKey();
         }
     }
 }
