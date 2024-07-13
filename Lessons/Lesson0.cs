@@ -11,6 +11,7 @@ namespace Learn_CSharp
     /*This is a class, which contains methods/functions and variables (you'll learn about these later!!)*/
     public class GettingStarted
     {
+        /*This is a method/function. It does things!*/
         public static void Main()
         {
             /* This is where all your code goes! :) */
